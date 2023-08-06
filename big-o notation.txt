@@ -1,0 +1,6 @@
+-the worst case complexity of an algorithm is represented using the big-o notation.
+-big-o notation describes the complexity of an algorithm using algebric terms.
+
+-it has two important charcteristics:
+ -it is expressed in terms of input .
+ -it focuses on the bigger picture without getting caught up in the minute details.
